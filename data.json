@@ -1,0 +1,75 @@
+{
+    "aparelhoComDetalhePlano": [
+        {
+            "id": 1,
+            "nomeModelo": "Xiaomi Mi 8",
+            "marca": "Xiaomi",
+            "sistemaOperacional": "android",
+            "tamanhoTela": "6,21 polegadas",
+            "atributosSeguranca": "impressão digital,Reconhecimento facial",
+            "resolucaoCameraTraseira": "12 megapixels",
+            "recurso": "4G LTE,Resistente à água",
+            "price": "r$ 2.271,41",
+            "planos": [
+                {
+                    "id": 1,
+                    "nomePlano": "Planos Pré",
+                    "caracteristica1": "...",
+                    "caracteristica2": "...",
+                    "caracteristica3": "...",
+                    "caracteristica4": "...",
+                    "caracteristica5": "..."
+                },
+                {
+                    "id": 2,
+                    "nomePlano": "Planos Pós",
+                    "caracteristica1": "...",
+                    "caracteristica2": "...",
+                    "caracteristica3": "...",
+                    "caracteristica4": "...",
+                    "caracteristica5": "..."
+                },
+                {
+                    "id": 3,
+                    "nomePlano": "Planos Controle",
+                    "caracteristica1": "...",
+                    "caracteristica2": "...",
+                    "caracteristica3": "...",
+                    "caracteristica4": "...",
+                    "caracteristica5": "..."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nomeModelo": "Galaxy S9 G9600",
+            "marca": "samsung",
+            "sistemaOperacional": "android",
+            "tamanhoTela": "5,8 polegadas",
+            "atributosSeguranca": "impressão digital,Reconhecimento facial,Reconhecimento de íris",
+            "resolucaoCameraTraseira": "12 megapixels",
+            "recurso": "4G LTE,Resistente à água",
+            "price": "r$ 2.398,99",
+            "planos": [
+                {
+                    "id": 1,
+                    "nomePlano": "Planos Pré",
+                    "caracteristica1": "...",
+                    "caracteristica2": "...",
+                    "caracteristica3": "...",
+                    "caracteristica4": "...",
+                    "caracteristica5": "..."
+                },
+                {
+                    "id": 3,
+                    "nomePlano": "Planos Controle",
+                    "caracteristica1": "...",
+                    "caracteristica2": "...",
+                    "caracteristica3": "...",
+                    "caracteristica4": "...",
+                    "caracteristica5": "..."
+                }
+            ]
+        }
+    ]
+}
